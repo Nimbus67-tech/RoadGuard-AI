@@ -3,3 +3,4 @@ pillow>=10.0
 pandas>=2.0
 plotly>=5.20
 pytest>=8.0
+-e .
